@@ -4,6 +4,8 @@
 
 <kbd><img src="https://user-images.githubusercontent.com/89760730/234043343-a3402e7b-e702-4106-88ff-c04dbe07f3e0.png" /></kbd>
 
+[ESX-Version SY_Notify](https://github.com/SYNO-SY/SY_Notify)
+
 # Dependency
 
 - [QBCore](https://github.com/qbcore-framework/qb-core)
