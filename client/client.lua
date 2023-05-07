@@ -73,6 +73,7 @@ RegisterCommand('test', function()
     exports['SY_Notify']:Alert("INFORMATION", "This is TEST MSG", 5000, 'info')
     exports['SY_Notify']:Alert("ERROR", "This is TEST MSG", 5000, 'error')
     exports['SY_Notify']:Alert("WARNING", "This is TEST MSG", 5000, 'warning')
+exports['SY_Notify']:Alert("ANNOUNCEMENT", "This is TEST MSG", 5000, 'announcement') 
 end)]]
 
 
