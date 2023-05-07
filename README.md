@@ -48,6 +48,7 @@
    2. info
    3. warning
    4. error
+   5. announcement
 
 4. IF YOU NEED TO ADD THIS NOTIFICATION AS DEFAULT IN QbCore, ADD THE GIVEN CODE IN @qb-core/client/functions.lua (Line Number "88")
 
