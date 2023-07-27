@@ -92,7 +92,7 @@ replace it with
       else
          texttype = texttype or 'info'
          length = length or 5000
-         exports['SY_Notify']:Alert("NOTIFICATION", ttext, length, texttype)
+         exports['SY_Notify']:Alert("NOTIFICATION", text, length, texttype)
       end
    end
 ```
